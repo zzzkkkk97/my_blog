@@ -1,99 +1,104 @@
-# 🍥Fuwari  
-![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen) 
-![pnpm >= 9](https://img.shields.io/badge/pnpm-%3E%3D9-blue) 
-[![DeepWiki](https://img.shields.io/badge/DeepWiki-saicaca%2Ffuwari-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAyCAYAAAAnWDnqAAAAAXNSR0IArs4c6QAAA05JREFUaEPtmUtyEzEQhtWTQyQLHNak2AB7ZnyXZMEjXMGeK/AIi+QuHrMnbChYY7MIh8g01fJoopFb0uhhEqqcbWTp06/uv1saEDv4O3n3dV60RfP947Mm9/SQc0ICFQgzfc4CYZoTPAswgSJCCUJUnAAoRHOAUOcATwbmVLWdGoH//PB8mnKqScAhsD0kYP3j/Yt5LPQe2KvcXmGvRHcDnpxfL2zOYJ1mFwrryWTz0advv1Ut4CJgf5uhDuDj5eUcAUoahrdY/56ebRWeraTjMt/00Sh3UDtjgHtQNHwcRGOC98BJEAEymycmYcWwOprTgcB6VZ5JK5TAJ+fXGLBm3FDAmn6oPPjR4rKCAoJCal2eAiQp2x0vxTPB3ALO2CRkwmDy5WohzBDwSEFKRwPbknEggCPB/imwrycgxX2NzoMCHhPkDwqYMr9tRcP5qNrMZHkVnOjRMWwLCcr8ohBVb1OMjxLwGCvjTikrsBOiA6fNyCrm8V1rP93iVPpwaE+gO0SsWmPiXB+jikdf6SizrT5qKasx5j8ABbHpFTx+vFXp9EnYQmLx02h1QTTrl6eDqxLnGjporxl3NL3agEvXdT0WmEost648sQOYAeJS9Q7bfUVoMGnjo4AZdUMQku50McDcMWcBPvr0SzbTAFDfvJqwLzgxwATnCgnp4wDl6Aa+Ax283gghmj+vj7feE2KBBRMW3FzOpLOADl0Isb5587h/U4gGvkt5v60Z1VLG8BhYjbzRwyQZemwAd6cCR5/XFWLYZRIMpX39AR0tjaGGiGzLVyhse5C9RKC6ai42ppWPKiBagOvaYk8lO7DajerabOZP46Lby5wKjw1HCRx7p9sVMOWGzb/vA1hwiWc6jm3MvQDTogQkiqIhJV0nBQBTU+3okKCFDy9WwferkHjtxib7t3xIUQtHxnIwtx4mpg26/HfwVNVDb4oI9RHmx5WGelRVlrtiw43zboCLaxv46AZeB3IlTkwouebTr1y2NjSpHz68WNFjHvupy3q8TFn3Hos2IAk4Ju5dCo8B3wP7VPr/FGaKiG+T+v+TQqIrOqMTL1VdWV1DdmcbO8KXBz6esmYWYKPwDL5b5FA1a0hwapHiom0r/cKaoqr+27/XcrS5UwSMbQAAAABJRU5ErkJggg==)](https://deepwiki.com/saicaca/fuwari)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari?ref=badge_shield&issueType=license)
+﻿# jsw_blog
 
-A static blog template built with [Astro](https://astro.build).
+我的个人博客，记录技术学习与实践，也记录做项目、寻找实习和生活中的思考。
 
-[**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)
+写博客是为了留下记录，并监督自己持续思考。
 
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+> 未来会好吗？会好的。关关难过关关过。
 
-🌏 README in
-[**中文**](https://github.com/saicaca/fuwari/blob/main/docs/README.zh-CN.md) /
-[**日本語**](https://github.com/saicaca/fuwari/blob/main/docs/README.ja.md) /
-[**한국어**](https://github.com/saicaca/fuwari/blob/main/docs/README.ko.md) /
-[**Español**](https://github.com/saicaca/fuwari/blob/main/docs/README.es.md) /
-[**ไทย**](https://github.com/saicaca/fuwari/blob/main/docs/README.th.md) /
-[**Tiếng Việt**](https://github.com/saicaca/fuwari/blob/main/docs/README.vi.md) /
-[**Bahasa Indonesia**](https://github.com/saicaca/fuwari/blob/main/docs/README.id.md) (Provided by the community and may not always be up-to-date)
+## 记录什么
 
-## ✨ Features
+- Agent、后端开发与 Coding Agent 项目的学习和实践。
+- 做项目时遇到的问题、解决方法和心得。
+- 寻找实习的经历，以及个人规划、兴趣探索和生活感想。
 
-- [x] Built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com)
-- [x] Smooth animations and page transitions
-- [x] Light / dark mode
-- [x] Customizable theme colors & banner
-- [x] Responsive design
-- [x] Search functionality with [Pagefind](https://pagefind.app/)
-- [x] [Markdown extended features](https://github.com/saicaca/fuwari?tab=readme-ov-file#-markdown-extended-syntax)
-- [x] Table of contents
-- [x] RSS feed
+[在线博客](https://zzzkkkk97-blog.vercel.app/) · [我的 GitHub](https://github.com/zzzkkkk97) · [博客源码](https://github.com/zzzkkkk97/my_blog)
 
-## 🚀 Getting Started
+## 技术与功能
 
-1. Create your blog repository:
-    - [Generate a new repository](https://github.com/saicaca/fuwari/generate) from this template or fork this repository.
-    - Or run one of the following commands:
-       ```sh
-       npm create fuwari@latest
-       yarn create fuwari
-       pnpm create fuwari@latest
-       bun create fuwari@latest
-       deno run -A npm:create-fuwari@latest
-       ```
-2. To edit your blog locally, clone your repository, run `pnpm install` to install dependencies.
-    - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you haven't.
-3. Edit the config file `src/config.ts` to customize your blog.
-4. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
-5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/). You need to edit the site configuration in `astro.config.mjs` before deployment.
+博客基于 [Astro](https://astro.build) 和 [Fuwari](https://github.com/saicaca/fuwari) 主题，使用 Svelte、Tailwind CSS 和 Pagefind。
 
-## 📝 Frontmatter of Posts
+支持 Markdown 写作、标签与分类、文章归档、全文搜索、文章目录、明暗主题和 RSS 订阅。
 
-```yaml
----
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: ./cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
-lang: jp      # Set only if the post's language differs from the site's language in `config.ts`
----
+## 本地运行
+
+准备 Node.js 22 和 pnpm（项目使用 `pnpm@9.14.4`），在项目根目录执行：
+
+```sh
+pnpm install
+pnpm dev
 ```
 
-## 🧩 Markdown Extended Syntax
+启动后打开终端显示的地址，默认是 `http://localhost:4321`。
 
-In addition to Astro's default support for [GitHub Flavored Markdown](https://github.github.com/gfm/), several extra Markdown features are included:
+## 写文章
 
-- Admonitions ([Preview and Usage](https://fuwari.vercel.app/posts/markdown-extended/#admonitions))
-- GitHub repository cards ([Preview and Usage](https://fuwari.vercel.app/posts/markdown-extended/#github-repository-cards))
-- Enhanced code blocks with Expressive Code ([Preview](https://fuwari.vercel.app/posts/expressive-code/) / [Docs](https://expressive-code.com/))
+```sh
+pnpm new-post my-new-post
+```
 
-## ⚡ Commands
+编辑生成的 `src/content/posts/my-new-post.md`：
 
-All commands are run from the root of the project, from a terminal:
+```markdown
+---
+title: 我的新文章
+published: 2026-10-10
+description: 文章摘要
+tags: [技术, 学习]
+category: 技术笔记
+draft: false
+---
 
-| Command                    | Action                                              |
-|:---------------------------|:----------------------------------------------------|
-| `pnpm install`             | Installs dependencies                               |
-| `pnpm dev`                 | Starts local dev server at `localhost:4321`         |
-| `pnpm build`               | Build your production site to `./dist/`             |
-| `pnpm preview`             | Preview your build locally, before deploying        |
-| `pnpm check`               | Run checks for errors in your code                  |
-| `pnpm format`              | Format your code using Biome                        |
-| `pnpm new-post <filename>` | Create a new post                                   |
-| `pnpm astro ...`           | Run CLI commands like `astro add`, `astro check`    |
-| `pnpm astro --help`        | Get help using the Astro CLI                        |
+这里开始写正文。
+```
 
-## ✏️ Contributing
+将 `published` 改为实际发布日期。`draft: true` 的文章在本地开发时可见，正式构建时会隐藏；发布前改为 `false`。
 
-Check out the [Contributing Guide](https://github.com/saicaca/fuwari/blob/main/CONTRIBUTING.md) for details on how to contribute to this project.
+## 常用命令
 
-## 📄 License
+| 命令 | 用途 |
+| --- | --- |
+| `pnpm dev` | 本地开发和实时预览 |
+| `pnpm new-post <文件名>` | 创建文章 |
+| `pnpm check` | 检查类型和 Astro 文件 |
+| `pnpm build` | 构建静态网站并生成搜索索引，输出到 `dist/` |
+| `pnpm preview` | 预览已构建的网站 |
 
-This project is licensed under the MIT License.
+## 项目结构
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari?ref=badge_large&issueType=license)
+| 路径 | 内容 |
+| --- | --- |
+| `src/config.ts` | 站点名称、个人资料、导航和主题配置 |
+| `src/content/posts/` | 博客文章 |
+| `src/content/spec/about.md` | 关于我页面 |
+| `src/content/参考/` | 保留的 Markdown 写作示例 |
+| `src/assets/images/` | 头像及其他图片 |
+| `public/favicon/` | 网站图标 |
+| `astro.config.mjs` | 正式网址、部署路径及构建配置 |
+
+## 部署到 Vercel
+
+在 Vercel 中导入本仓库，使用以下配置：
+
+| 设置 | 值 |
+| --- | --- |
+| Framework Preset | `Astro` |
+| Install Command | `pnpm install --frozen-lockfile` |
+| Build Command | `pnpm build` |
+| Output Directory | `dist` |
+
+博客正式地址为 https://zzzkkkk97-blog.vercel.app/ 。`astro.config.mjs` 中的站点配置应为：
+
+```js
+site: "https://zzzkkkk97-blog.vercel.app/",
+base: "/",
+```
+
+更换域名时，同步更新 `site`，随后提交并推送修改。
+
+关联 GitHub 后，推送到配置的生产分支会触发 Vercel 自动部署。上线后检查文章、搜索和 `/rss.xml`。
+
+## 致谢与许可
+
+感谢 [Fuwari](https://github.com/saicaca/fuwari) 提供博客主题。项目保留原有 [MIT LICENSE](./LICENSE)；文章授权设置见 `src/config.ts` 中的 `licenseConfig`，当前为 CC BY-NC-SA 4.0。
+![1791625447108](image/README/1791625447108.png)![1791625451791](image/README/1791625451791.png)
